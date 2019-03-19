@@ -26,6 +26,14 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/js-dom-and-events-acting-on-events#readme",
   "devDependencies": {
+<<<<<<< HEAD
     "learn-browser": "^0.1.13"
+=======
+    "expect": "^1.20.1",
+    "jsdom": "^9.2.1",
+    "mocha": "^2.5.3",
+    "mocha-jsdom": "~1.1.0",
+    "mocha-multi": "^0.9.0"
+>>>>>>> e66633f5072d0fe6ab30d104040ae957af58e8e9
   }
 }
